@@ -10,7 +10,9 @@
     </div>
 </h1>
 
-This project is a Discord bot that facilitates the retrieval and download of files based on specific codes sent via direct messages. It uses a web server to serve the files and provides users with download links, titles, descriptions, and optional thumbnail images.
+My minimalistic Linktree page with a light retro terminal touch. It features a "green hacker" theme with a light CRT screen-like glowing effect.
+ 
+[DEMO](https://daboys.ml/)
 
 #
 ![example](https://github.com/AIO-Develope/AIOs-Linktree/assets/69240351/00d9fb42-0a92-408e-815f-ff22f5735c29)
