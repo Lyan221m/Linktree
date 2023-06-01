@@ -10,7 +10,7 @@
     </div>
 </h1>
 
-My minimalistic Linktree page with a light retro terminal touch. It features a "green hacker" theme with a light CRT screen-like glowing effect.
+My minimalistic Linktree page with a light retro terminal touch. It features a "green hacker" theme with a light CRT screen-like glowing effect. Additionally, it features a charming typewriter animation.
 This project is entirely free to use, open-source, and does not require any credits.
  
 [DEMO](https://daboys.ml/)
