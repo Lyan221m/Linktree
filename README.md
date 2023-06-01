@@ -28,7 +28,10 @@ This project is entirely free to use, open-source, and does not require any cred
 └── me.jpg        // The portrait that is displayed on top of the link tree
 ```
 
+# ToDo
 
-
+- Mobile optimization
+- Optional animations
+- An optional design feature that emulates a CRT display with scan lines, static, and glitching effects.
 
 
