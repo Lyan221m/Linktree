@@ -28,9 +28,9 @@ This project is entirely free to use, open-source, and does not require any cred
 └── me.jpg        // The portrait that is displayed on top of the link tree
 ```
 # Optional animation styles
-```
+
 In the "AnimationThemes" folder, you will find some .css files that contain optional themes you can use. To apply a preferred style, replace your existing "style.css" file with the desired style file.
-```
+
 <h2>Themes:</h2>
 
 https://github.com/AIO-Develope/AIOs-Linktree/assets/69240351/694815d7-7876-447b-95c3-397bff20c92e
