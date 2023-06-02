@@ -22,10 +22,16 @@ This project is entirely free to use, open-source, and does not require any cred
 
 # File structure
 ```
-├── index.html    // The main HTML file
-├── style.css     // The style file that's linked to the index.html
-├── favicon.ico   // The favicon shown in the browser tab with a 16x16 pixel resolution (I highly recommend 16x16 pixels)
-└── me.jpg        // The portrait that is displayed on top of the link tree
+├── index.html       // The main HTML file
+├── style.css        // The style file that's linked to the index.html
+├── favicon.ico      // The favicon shown in the browser tab with a 16x16 pixel resolution (I highly recommend 16x16 pixels)
+├── me.jpg           // The portrait that is displayed on top of the link tree
+└── AnimationThemes  // You can find a showcase of it in "Optional animation styles"
+    ├── style1.css
+    ├── style2.css
+    ├── style3.css
+    ├── style4.css
+    └── style5.css
 ```
 # Optional animation styles
 
