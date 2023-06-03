@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/html-5-red" align="center"/>
     <img src="https://img.shields.io/badge/css-3-blue" align="center"/>
     <img src="https://img.shields.io/badge/Developing-Active-brightgreen" align="center"/>
-    <img src="https://img.shields.io/badge/Version-3.0-green" align="center"/>
+    <img src="https://img.shields.io/badge/Version-3.1-green" align="center"/>
     </div>
 </h1>
 
