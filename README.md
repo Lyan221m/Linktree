@@ -42,6 +42,7 @@ Heres an example:
 Now the links should be displayed correctly on your web page.
 
 <h2>Important!</h2>
+ 
 In order for the links to appear properly, the website needs to be hosted on a web server. If hosting on a web server is not possible or if the links are still not working, you can use the ```_Old``` version or revert to version [release 3.1](https://github.com/AIO-Develope/AIOs-Linktree/releases/tag/3.1) or older.
 
 # File structure
