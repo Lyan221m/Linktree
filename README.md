@@ -75,8 +75,8 @@ https://github.com/AIO-Develope/AIOs-Linktree/assets/69240351/694815d7-7876-447b
 
 - Mobile optimization ✅
 - Optional animations ✅
-- fetch livestreams from channel function 
+- fetch livestreams from channel function ✅ => published on separate repositories
 - Links in a json file ✅
-- An optional design feature that emulates a CRT display with scan lines, static, and glitching effects. (dont know if i do this)
+- An optional design feature that emulates a CRT display with scan lines, static, and glitching effects. (dont know if i do this, probably not)
 
 
