@@ -1,0 +1,9 @@
+services:
+  web:
+    build: .
+    ports:
+      - ${PORT}:80
+    volumes:
+      - data:/data
+volumes:
+  data:
