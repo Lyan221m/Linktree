@@ -2,11 +2,16 @@
 services:
   web:
     container_name: Linktree
-    build: .
+    build:
+      context: .
+      args:
+        THEME: ${THEME}
     ports:
       - ${PORT}:80
     volumes:
       - data:/data
+
+    pull_policy: build
 
 volumes:
   data:
