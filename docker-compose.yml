@@ -1,9 +1,12 @@
+
 services:
   web:
+    container_name: Linktree
     build: .
     ports:
       - ${PORT}:80
     volumes:
       - data:/data
+
 volumes:
   data:

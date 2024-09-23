@@ -1,7 +1,17 @@
-FROM nginx:alpine
+# Use the official Nginx image as a base
+FROM nginx:latest
 
-COPY nginx.conf /etc/nginx/nginx.conf
 
-COPY public/ /usr/share/nginx/html
+RUN mkdir -p /data
+
+
+COPY ./links.json /data/links.json
+
+
+COPY ./nginx.conf /etc/nginx/conf.d/default.conf
+
+
+COPY ./src /usr/share/nginx/html/
+
 
 EXPOSE 80
