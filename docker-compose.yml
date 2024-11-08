@@ -10,7 +10,7 @@ services:
       - ${PORT}:80
     volumes:
       - data:/data
-
+    restart: always
     pull_policy: build
 
 volumes:
